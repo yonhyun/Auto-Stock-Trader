@@ -1,2 +1,3 @@
-# Auto-Stock-Trader
-With Anaconda3, implemented Auto Python Stock Trader Using stock-company's API. Automatically sells and buys in certain situations based on Data-Mining Algorithms such as Decision Tree. Started with profit of a hundred dollars in first two weeks of the month and ended up with profit of sixty dollars in rest of the month. 
+PyTrader는 시스템 트레이딩을 학습하는 과정에서 만들어진 프로그램입니다.
+이 프로그램은 파이썬3, PyQt5을 기반으로 제작되었으며,
+키움증권의 OpenApi+ 를 사용하고 있습니다.
